@@ -1,5 +1,3 @@
-G
-
 # React Uygulamasi.
 Gerekli bilgiler verilmistir.
 
