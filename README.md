@@ -1,6 +1,7 @@
 # React Uygulamasi.
 Gerekli bilgiler verilmistir.
 -test1
+-test2
 
 # Getting Started with Create React App
 
